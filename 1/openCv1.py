@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-img=cv2.imread('saat.jpg', 0)
+img=cv2.imread('WALL-E.jpg', 0)
 
 #cv2.IMREAD_GRAYSCALE = 0
 #cv2.IMREAD_COLOR = 1
